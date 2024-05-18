@@ -6,7 +6,7 @@
   <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 </a>
 <a href="https://youtube.com/@funkarevon?si=aKfO5gpcN4JSbMN6">
-  <img align="left" alt="Youtube" width="21px" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" />
+  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Facebook" width="21px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />
