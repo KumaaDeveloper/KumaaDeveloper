@@ -8,6 +8,9 @@
 <a href="https://youtube.com/@funkarevon?si=aKfO5gpcN4JSbMN6">
   <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://www.facebook.com/funkarevon?mibextid=ZbWKwL">
   <img align="left" alt="Facebook" width="21px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />
+</a>
+<a href="https://x.com/FunkaRevon?t=eDDlts6WethIQSF5rfUK9g&s=09">
+  <img align="left" alt="X" width="21px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
 </a>
