@@ -8,3 +8,6 @@
 <a href="https://youtube.com/@funkarevon?si=aKfO5gpcN4JSbMN6">
   <img align="left" alt="Youtube" width="21px" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" />
 </a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Facebook" width="21px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />
+</a>
