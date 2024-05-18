@@ -5,6 +5,6 @@
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://youtube.com/@funkarevon?si=aKfO5gpcN4JSbMN6">
   <img align="left" alt="Youtube" width="21px" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" />
 </a>
