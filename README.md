@@ -44,4 +44,4 @@
 ##
 ## 📩 My Contact
 [![Gmail Badge](https://img.shields.io/badge/ardrabrust@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KUMA-EMAIL)](mailto:KUMA-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[<img src="https://img.shields.io/github/followers/KumaaDeveloper?label=follow&style=social" height="22" title="Follow me" />](https://github.com/KumaaDeveloper) 
