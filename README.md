@@ -40,3 +40,8 @@
 ##
 ## 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=KumaaDeveloper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+##
+## 📩 My Contact
+[![Gmail Badge](https://img.shields.io/badge/ardrabrust@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:KUMA-EMAIL)](mailto:KUMA-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
