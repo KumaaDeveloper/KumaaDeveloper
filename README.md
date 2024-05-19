@@ -18,9 +18,8 @@
   <img align="left" alt="Saweria" width="21px" src="https://cdn.discordapp.com/attachments/767746326234005524/1241312721958600805/images_9_1.png?ex=6649be0f&is=66486c8f&hm=01ca0101a727f2c289410f4af8d6cb8914273d5060cd3a1f58972a7aba8c6aa3&" />
 </a>
 
-
-
-
+##
+##
 ## About Me
 
 - 👨‍💻 Hello, my name is Ardra. Usually called Funkarevon
