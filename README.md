@@ -27,7 +27,6 @@
 - 📚 I'm a Game Developer, Minecraft Developer, And UI/UX Designer
 
 ##
-##
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumaaDeveloper&show_icons=true)
